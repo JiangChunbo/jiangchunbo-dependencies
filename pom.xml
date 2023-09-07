@@ -9,10 +9,12 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <name>jiangchunbo-dependencies</name>
-    <description>姜春波使用的依赖</description>
+    <description>dependencies for jiangchunbo</description>
 
     <properties>
         <java.version>1.8</java.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <spring-data-releasetrain.version>2021.2</spring-data-releasetrain.version>
         <spring.boot.version>2.3.12.RELEASE</spring.boot.version>
         <spring.cloud.version>Hoxton.SR12</spring.cloud.version>
